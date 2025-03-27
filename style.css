@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+.heading1
+{
+    color: yellowgreen;
+    background-color: black;
+}
+.heading2
+{
+    color: greenyellow;
+    background-color: black;
+}
+#heading3
+{
+    color: crimson;
+    background-color: black;
+}
+b
+{
+    color: black;
+    background-color: aqua;
+}
+.heading4
+{
+    color: greenyellow;
+    background-color: black;
+}
+button
+{
+    color: chartreuse;
+}
